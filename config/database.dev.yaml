@@ -1,0 +1,5 @@
+host: "os-project.cwtnopeodg70.ap-southeast-1.rds.amazonaws.com"
+database: ""
+port: 3306
+user: ""
+password: ""
